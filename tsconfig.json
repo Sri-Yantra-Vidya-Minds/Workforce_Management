@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig to read more about this file */
+
+    /* Projects */
+    // ... (rest of your project configurations)
+
+    /* Language and Environment */
+    "target": "es2016",                                     /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    // ... (rest of your language and environment configurations)
+
+    /* Modules */
+    "module": "commonjs",                                     /* Specify what module code is generated. */
+    "baseUrl": "./src",                                     /* Specify the base directory to resolve non-relative module names. */
+    "paths": {
+      "@/*": ["./*"]                                       /* Specify a set of entries that re-map imports to additional lookup locations. */
+    },
+    // ... (rest of your modules configurations)
+
+    /* JavaScript Support */
+    // ... (rest of your JavaScript support configurations)
+
+    /* Emit */
+    // ... (rest of your emit configurations)
+
+    /* Interop Constraints */
+    "esModuleInterop": true,                                   /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */
+    "forceConsistentCasingInFileNames": true,                   /* Ensure that casing is correct in imports. */
+
+    /* Type Checking */
+    "strict": true,                                         /* Enable all strict type-checking options. */
+    // ... (rest of your type checking configurations)
+
+    /* Completeness */
+    "skipLibCheck": true                                      /* Skip type checking all .d.ts files. */
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
