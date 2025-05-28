@@ -1,9 +1,9 @@
 
-# Innoworx.ai - Security Management System
+# Innoworx.ai - Workforce Management System
 
 ## Project Description
 
-This repository contains the front-end application for the **Innoworx.ai Security Management System**. The system is designed to provide comprehensive tools for managing security operations, offering a streamlined interface for various functionalities. It aims to enhance team coordination and ensure comprehensive site management.
+This repository contains the front-end application for the **Innoworx.ai Workforce Management System**. The system is designed to provide comprehensive tools for managing security operations, offering a streamlined interface for various functionalities. It aims to enhance team coordination and ensure comprehensive site management.
 
 The application boasts a modern and intuitive user interface built with a distinct glassmorphism design, ensuring a visually engaging and efficient user experience across all modules, including the core dashboard.
 
